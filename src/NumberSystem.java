@@ -45,19 +45,3 @@ public class NumberSystem {
         return result;
     }
 }
-
-/*
-for (int i = 0; i < binary.length(); i++) {
-
-            double number = Double.valueOf(binary.charAt(i));
-            if (number == 0) {
-                result += 0;
-            } else if (number == 1) {
-                result += Math.pow(2, i);
-            } else {
-                System.out.println("Error! Wrong input.");
-                break;
-            }
-        }
-
- */
