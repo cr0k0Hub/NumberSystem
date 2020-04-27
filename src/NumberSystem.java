@@ -1,3 +1,7 @@
+/*
+* Created by https://github.com/cr0k0Hub
+/*
+
 public class NumberSystem {
 
     public static double toBin(int number) {
